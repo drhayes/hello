@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drhayes/hello.git"
+  },
+  "author": "David Hayes <drhayes@gmail.com> (http://drhayes.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drhayes/hello/issues"
+  },
+  "homepage": "https://github.com/drhayes/hello#readme",
+  "dependencies": {
+    "micro": "9.0.0"
+  }
+}
