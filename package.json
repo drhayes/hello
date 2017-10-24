@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "micro"
+    "start": "micro -p ${PORT:-3000}"
   },
   "repository": {
     "type": "git",
