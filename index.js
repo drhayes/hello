@@ -1,1 +1,1 @@
-module.exports =  (req, res) => 'catpants';
+module.exports =  (req, res) => process.env.MESSAGE || 'no message set';
